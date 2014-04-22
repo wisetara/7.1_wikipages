@@ -7,8 +7,11 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+<<<<<<< HEAD
 gem 'rest-client'
 gem 'active_model_serializers'
+=======
+>>>>>>> a0bfdfa0839822e1780b110c7974431749aaf961
 
 group :development do
   gem 'better_errors'
@@ -18,7 +21,10 @@ end
 
 group :test, :development do
   gem 'rspec-rails'
+<<<<<<< HEAD
   gem 'pry'
+=======
+>>>>>>> a0bfdfa0839822e1780b110c7974431749aaf961
 end
 
 group :test do
